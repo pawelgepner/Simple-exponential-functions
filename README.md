@@ -1,9 +1,9 @@
-# Simple-exponential-functions
-All code examples used in article:  
+# SIMPLE EXPONENTIAL FUNCTIONS
+In this repository you can find all code examples used in article:  
 
 **"Simple multiple precision algorithms for exponential functions"**  
 
-Authors:
+By:
  - Leonid Moroz  
  - Volodymyr Samotyy  
  - Zbigniew Kokosiński  
@@ -16,3 +16,4 @@ https://sourceforge.net/projects/half/
 and put header file half.hpp in directory src.
 2. Execute  
 $ make
+3. Binaries can be found in bin directory.
