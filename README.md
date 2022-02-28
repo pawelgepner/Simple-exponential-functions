@@ -1,5 +1,5 @@
 # SIMPLE EXPONENTIAL FUNCTIONS
-In this repository you can find all code examples used in article:  
+In this repository you can find all code examples used in article (to be) publised in IEEE Signal Processing Magazine:  
 
 **"Simple multiple precision algorithms for exponential functions"**  
 
